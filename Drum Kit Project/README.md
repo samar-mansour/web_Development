@@ -1,5 +1,5 @@
 # HTML/CSS/JS & DOM - Drum Kit
-![drumKit](Drum Kit.jpg)
+![drumKit](DrumKit.jpg)
 
 - [About this project](#about)
 - [Features](#features)
