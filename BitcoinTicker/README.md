@@ -9,7 +9,7 @@
 
 <a name="about"></a>
 ## About
-In this code along I updated the provided starter files using
+In this code files I'm using
 HTML, Json, Javascript and node
 
 <a name="features"></a>
