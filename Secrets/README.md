@@ -1,1 +1,1 @@
-## Authentication Secuirty
+## Authentication Secrets
